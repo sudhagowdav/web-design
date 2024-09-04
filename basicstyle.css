@@ -1,0 +1,19 @@
+body{
+    font-family:  'Open Sans';
+        margin-top: 50px;
+      }
+  
+
+.sheet1{
+    border:5px solid none;
+    border-radius: 40px;
+    margin-top: 60px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.cs{
+    border: 5px solid none;
+    border-radius: 40px;
+    margin-left: 50px;
+    background-color: greenyellow;
+}
