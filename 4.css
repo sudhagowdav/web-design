@@ -1,0 +1,25 @@
+.bg{
+    width: 700px;
+    margin: 30px;
+    position: relative;
+}
+.bg-img{
+    width:100% ;
+}
+.content{
+    position: absolute;
+    bottom: 50px;
+    color: azure;
+    text-align: center;
+    font-size: larger;
+}
+.btn{
+    color: black;
+    background-color: white;
+    border-right:60px;
+    bottom:50px ;
+    padding:10px;
+    margin: auto;
+
+    
+}
